@@ -16,7 +16,7 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hello ASE2015 - how are you? :)");
+		System.out.println("Hello ASE2015 - how are you now? :)");
 		System.out.print("Please enter your name:");
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		String username=null;
